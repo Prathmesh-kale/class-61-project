@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    background-color:chartreuse;
+
+}
+
+img {
+    width: 400px;
+    margin-bottom: 50px;
+    border-color: dodgerblue;
+    border-width: 5px;
+}
+
+#h1 {
+    font-size: 95px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 200px;
+    color: beige;
+    padding-bottom: 190px;
+    text-align: center;
+}
+
+#h3 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 350px;
+}
+
+#h2 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+    word-spacing: 5px;
+}
+
+.menu {
+    background-color: aqua;
+    font-family: sans-serif;
+  
+    top: 0px;
+    width: 100%;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: fantasy;
+    font-size: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    float: left;
+    color: #fff;
+    
+    }
+
+.links:hover {
+    background-color: lightpink;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+}
+
+#img1 {
+    width: 400px;
+}
+
+#h5 {
+    font-size: 28px;
+}
+
+br {
+    height: 200px;
+}
+
+#p1 {
+    font-size: 35px;
+    text-align: center;
+    color: darkorange;
+
+}
+
+#imgactor1 {
+    width: 300px;
+}
+
+.article {
+    font-size: 30px;
+    color: red;
+}
